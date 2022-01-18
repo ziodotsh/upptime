@@ -24,6 +24,9 @@ sites:
     url: nl01.zio.sh
     port: 22
 
+  - name: This is broken
+    url: broken.zio.sh
+
     # 🔗 Website
   #- name: "🔗 Website: Zio Git (Gitea)"
   #  url: https://git.zio.sh
