@@ -1,18 +1,38 @@
 owner: ziodotsh
 repo: upptime
 
+assignees:
+  - astravexton
+  - electricduck
+
 sites:
-  - name: 🔌 Zio DE01 [ICMP]
+    # Servers
+  - name: DE01 [🔌 ICMP]
     check: "tcp-ping"
     url: de01.zio.sh
     port: 7
-  - name: 🔌 Zio GB02 [SSH]
+  - name: GB01 [🔌 ICMP]
+    check: "tcp-ping"
+    url: gb01.zio.sh
+    port: 7
+  - name: GB02 [⌨️ SSH]
     check: "tcp-ping"
     url: gb02.zio.sh
     port: 20222
-  - name: Sodalite [HTTPS]
+
+    # Services
+  - name: Zio Git (Gitea) [🔗 HTTPS]
+    url: https://git.zio.sh
+
+    # Websites
+  - name: Sodalite [🔗 HTTPS]
     url: https://sodalite.rocks
 
 status-website:
   cname: uptime.zio.sh
   name: Zio Uptime
+
+# Emojis
+# 🔗 HTTP/HTTPS
+# 🔌 ICMP
+# ⌨️ SSH
