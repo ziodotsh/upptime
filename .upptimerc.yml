@@ -26,6 +26,8 @@ sites:
   - name: Gitea
     url: https://git.zio.sh
     icon: https://git.zio.sh/assets/img/logo.svg
+  - name: OSTree Repo
+    url: https://ostree.zio.sh
 
 status-website:
   cname: uptime.zio.sh
