@@ -4,7 +4,7 @@ repo: upptime
 sites:
   - name: Sodalite
     url: https://sodalite.rocks
-    
+
 status-website:
-  cname: status.zio.sh
-  name: Zio Status
+  cname: uptime.zio.sh
+  name: Zio Uptime
