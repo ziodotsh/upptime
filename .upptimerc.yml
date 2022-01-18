@@ -9,35 +9,32 @@ sites:
     # 🔌 Servers
   - name: "🇩🇪 Zio DE01 (Hetzner)"
     check: "tcp-ping"
-    url: de01.zio.sh
+    url: https://de01.zio.sh
     port: 22
   - name: "🇬🇧 Zio GB01 (Virgin Media)"
     check: "tcp-ping"
-    url: gb01.zio.sh
+    url: https://gb01.zio.sh
     port: 2222
   - name: "🇬🇧 Zio GB02 (KCOM)"
     check: "tcp-ping"
-    url: gb02.zio.sh
+    url: https://gb02.zio.sh
     port: 20222
   - name: "🇳🇱 Zio NL01 (Scaleway)"
     check: "tcp-ping"
-    url: nl01.zio.sh
+    url: https://nl01.zio.sh
     port: 22
 
-  - name: This is broken
-    url: broken.zio.sh
+    # ⚙️ Services
+  - name: Zio Git (Gitea)
+    url: https://git.zio.sh
 
-    # 🔗 Website
-  #- name: "🔗 Website: Zio Git (Gitea)"
-  #  url: https://git.zio.sh
-
-    # Services
-  #- name: Zio Git (Gitea) [🔗 HTTPS]
-
-
-    # Websites
-  #- name: Sodalite [🔗 HTTPS]»
-  #  url: https://sodalite.rocks
+    # 🔗 Websites
+  - name: Sodalite
+    url: https://sodalite.rocks
+  - name: Sodalite ➔ Git
+    url: https://git.sodalite.rocks
+  - name: Sodalite ➔ OSTree Repository
+    url: https://ostree.sodalite.rocks
 
 status-website:
   cname: uptime.zio.sh
