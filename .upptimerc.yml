@@ -6,33 +6,36 @@ assignees:
   - electricduck
 
 sites:
-    # Servers
-  - name: DE01 [🔌 ICMP]
+    # 🔌 Servers
+  - name: "🇩🇪 Zio DE01 (Hetzner)"
     check: "tcp-ping"
     url: de01.zio.sh
     port: 7
-  - name: GB01 [🔌 ICMP]
+  - name: "🇬🇧 Zio GB01 (Virgin Media)"
     check: "tcp-ping"
     url: gb01.zio.sh
     port: 7
-  - name: GB02 [⌨️ SSH]
+  - name: "🇬🇧 Zio GB02 (KCOM)"
     check: "tcp-ping"
     url: gb02.zio.sh
     port: 20222
+  - name: "🇳🇱 Zio NL01 (Scaleway)"
+    check: "tcp-ping"
+    url: nl01.zio.sh
+    port: 7
+
+    # 🔗 Website
+  #- name: "🔗 Website: Zio Git (Gitea)"
+  #  url: https://git.zio.sh
 
     # Services
-  - name: Zio Git (Gitea) [🔗 HTTPS]
-    url: https://git.zio.sh
+  #- name: Zio Git (Gitea) [🔗 HTTPS]
+
 
     # Websites
-  - name: Sodalite [🔗 HTTPS]
-    url: https://sodalite.rocks
+  #- name: Sodalite [🔗 HTTPS]»
+  #  url: https://sodalite.rocks
 
 status-website:
   cname: uptime.zio.sh
   name: Zio Uptime
-
-# Emojis
-# 🔗 HTTP/HTTPS
-# 🔌 ICMP
-# ⌨️ SSH
