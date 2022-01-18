@@ -10,11 +10,11 @@ sites:
   - name: "🇩🇪 Zio DE01 (Hetzner)"
     check: "tcp-ping"
     url: de01.zio.sh
-    port: 7
+    port: 22
   - name: "🇬🇧 Zio GB01 (Virgin Media)"
     check: "tcp-ping"
     url: gb01.zio.sh
-    port: 7
+    port: 2222
   - name: "🇬🇧 Zio GB02 (KCOM)"
     check: "tcp-ping"
     url: gb02.zio.sh
@@ -22,7 +22,7 @@ sites:
   - name: "🇳🇱 Zio NL01 (Scaleway)"
     check: "tcp-ping"
     url: nl01.zio.sh
-    port: 7
+    port: 22
 
     # 🔗 Website
   #- name: "🔗 Website: Zio Git (Gitea)"
