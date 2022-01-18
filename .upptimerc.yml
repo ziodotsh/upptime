@@ -6,7 +6,6 @@ assignees:
   - electricduck
 
 sites:
-    # 🔌 Servers
   - name: "🇩🇪 Zio DE01 (Hetzner)"
     check: "tcp-ping"
     url: https://de01.zio.sh
@@ -24,17 +23,9 @@ sites:
     url: https://nl01.zio.sh
     port: 22
 
-    # ⚙️ Services
-  - name: Zio Git (Gitea)
+  - name: Gitea
     url: https://git.zio.sh
-
-    # 🔗 Websites
-  - name: Sodalite
-    url: https://sodalite.rocks
-  - name: Sodalite ➔ Git
-    url: https://git.sodalite.rocks
-  - name: Sodalite ➔ OSTree Repository
-    url: https://ostree.sodalite.rocks
+    icon: https://git.zio.sh/assets/img/logo.svg
 
 status-website:
   cname: uptime.zio.sh
