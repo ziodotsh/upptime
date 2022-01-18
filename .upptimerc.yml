@@ -2,7 +2,15 @@ owner: ziodotsh
 repo: uptime
 
 sites:
-  - name: Sodalite
+  - name: 🔌 Zio DE01 [ICMP]
+    check: "tcp-ping"
+    url: de01.zio.sh
+    port: 7
+  - name: 🔌 Zio GB02 [SSH]
+    check: "tcp-ping"
+    url: gb02.zio.sh
+    port: 20222
+  - name: Sodalite [HTTPS]
     url: https://sodalite.rocks
 
 status-website:
