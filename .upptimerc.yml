@@ -35,12 +35,6 @@ sites:
   - name: OSTree Repo
     url: https://ostree.zio.sh
 
-    # Services
-  - name: Plex [GB01]
-    url: https://plex.gb01.zio.sh:32400
-    check: "tcp-ping"
-    port: 32400
-
 status-website:
   cname: uptime.zio.sh
   css: >
