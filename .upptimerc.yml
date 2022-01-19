@@ -6,6 +6,7 @@ assignees:
   - electricduck
 
 sites:
+    # Servers
   - name: "Zio DE01 (Hetzner)"
     check: "tcp-ping"
     url: https://de01.zio.sh
@@ -27,13 +28,22 @@ sites:
     port: 22
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-netherlands_1f1f3-1f1f1.png
 
+    # Websites
   - name: Gitea
     url: https://git.zio.sh
     icon: https://git.zio.sh/assets/img/logo.svg
   - name: OSTree Repo
     url: https://ostree.zio.sh
 
+    # Services
+  - name: Plex [GB01]
+    url: https://plex.gb01.zio.sh:32400
+    check: "tcp-ping"
+    port: 32400
+
 status-website:
   cname: uptime.zio.sh
-  css: ".live-status > article:nth-child(4) { margin-bottom: 1em; }"
+  css: >
+    .live-status > article:nth-child(4) { margin-bottom: 1em; }
   name: Zio Uptime
+  theme: dark
