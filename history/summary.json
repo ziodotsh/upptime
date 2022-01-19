@@ -1,8 +1,8 @@
 [
   {
-    "name": "🇩🇪 Zio DE01 (Hetzner)",
+    "name": "Zio DE01 (Hetzner)",
     "url": "https://de01.zio.sh",
-    "icon": "https://favicons.githubusercontent.com/de01.zio.sh",
+    "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png",
     "slug": "zio-de-01-hetzner",
     "status": "up",
     "uptime": "100.00%",
@@ -18,9 +18,9 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "🇬🇧 Zio GB01 (Virgin Media)",
+    "name": "Zio GB01 (Virgin Media)",
     "url": "https://gb01.zio.sh",
-    "icon": "https://favicons.githubusercontent.com/gb01.zio.sh",
+    "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "zio-gb-01-virgin-media",
     "status": "up",
     "uptime": "100.00%",
@@ -36,9 +36,9 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "🇬🇧 Zio GB02 (KCOM)",
+    "name": "Zio GB02 (KCOM)",
     "url": "https://gb02.zio.sh",
-    "icon": "https://favicons.githubusercontent.com/gb02.zio.sh",
+    "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "zio-gb-02-kcom",
     "status": "up",
     "uptime": "100.00%",
@@ -54,9 +54,9 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "🇳🇱 Zio NL01 (Scaleway)",
+    "name": "Zio NL01 (Scaleway)",
     "url": "https://nl01.zio.sh",
-    "icon": "https://favicons.githubusercontent.com/nl01.zio.sh",
+    "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-netherlands_1f1f3-1f1f1.png",
     "slug": "zio-nl-01-scaleway",
     "status": "up",
     "uptime": "100.00%",
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 349,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "time": 330,
+    "timeDay": 330,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   }
 ]
