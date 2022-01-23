@@ -76,9 +76,9 @@
     "url": "https://git.zio.sh",
     "icon": "https://git.zio.sh/assets/img/logo.svg",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 522,
     "timeMonth": 522,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-23": 0
+    }
   },
   {
     "name": "OSTree Repo",
