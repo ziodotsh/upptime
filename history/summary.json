@@ -76,19 +76,19 @@
     "url": "https://git.zio.sh",
     "icon": "https://git.zio.sh/assets/img/logo.svg",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 539,
-    "timeDay": 576,
+    "timeDay": 699,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-01-23": 12
+      "2022-01-23": 0
     }
   },
   {
@@ -96,17 +96,19 @@
     "url": "https://ostree.zio.sh",
     "icon": "https://favicons.githubusercontent.com/ostree.zio.sh",
     "slug": "os-tree-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 326,
+    "timeDay": 0,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-23": 0
+    }
   }
 ]
