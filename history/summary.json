@@ -76,19 +76,19 @@
     "url": "https://git.zio.sh",
     "icon": "https://git.zio.sh/assets/img/logo.svg",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 452,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 539,
+    "timeDay": 576,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-01-23": 0
+      "2022-01-23": 12
     }
   },
   {
