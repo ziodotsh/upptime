@@ -8,24 +8,19 @@ assignees:
 sites:
     # Servers
   - name: "Zio DE01 (Hetzner)"
-    check: "tcp-ping"
     url: https://de01.zio.sh
-    port: 22
+    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
+  - name: "Zio DE02 (Hetzner)"
+    url: https://de02.zio.sh
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
   - name: "Zio GB01 (Virgin Media)"
-    check: "tcp-ping"
     url: https://gb01.zio.sh
-    port: 2222
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
   - name: "Zio GB02 (KCOM)"
-    check: "tcp-ping"
     url: https://gb02.zio.sh
-    port: 20222
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
   - name: "Zio NL01 (Scaleway)"
-    check: "tcp-ping"
     url: https://nl01.zio.sh
-    port: 22
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-netherlands_1f1f3-1f1f1.png
 
     # Websites
@@ -38,6 +33,6 @@ sites:
 status-website:
   cname: uptime.zio.sh
   css: >
-    .live-status > article:nth-child(4) { margin-bottom: 1em; }
+    .live-status > article:nth-child(5) { margin-bottom: 1em; }
   name: Zio Uptime
   theme: dark
