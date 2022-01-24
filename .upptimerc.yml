@@ -6,23 +6,22 @@ assignees:
   - electricduck
 
 sites:
-    # Servers
-  - name: "Zio DE01 (Hetzner)"
+    # Dedicated Servers
+  - name: "zio-de01 (Hetzner)"
     url: https://de01.zio.sh
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
-  - name: "Zio DE02 (Hetzner)"
-    url: https://de02.zio.sh
-    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
-    __dangerous__insecure: true
-  - name: "Zio GB01 (Virgin Media)"
+  - name: "zio-gb01 (Virgin Media)"
     url: https://gb01.zio.sh
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
-  - name: "Zio GB02 (KCOM)"
+  - name: "zio-gb02 (KCOM)"
     url: https://gb02.zio.sh
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
-  - name: "Zio NL01 (Scaleway)"
-    url: https://nl01.zio.sh
-    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-netherlands_1f1f3-1f1f1.png
+    
+    # Cloud Servers
+   - name: "zio-htz001 (Hetzner)"
+    url: https://htz001.zio.sh
+    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
+    __dangerous__insecure: true
 
     # Websites
   - name: Gitea
