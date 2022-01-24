@@ -23,19 +23,17 @@
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png",
     "slug": "zio-de-02-hetzner",
     "status": "up",
-    "uptime": "3.22%",
-    "uptimeDay": "3.22%",
-    "uptimeWeek": "3.22%",
-    "uptimeMonth": "3.22%",
-    "uptimeYear": "3.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 864,
     "timeDay": 864,
     "timeWeek": 864,
     "timeMonth": 864,
     "timeYear": 864,
-    "dailyMinutesDown": {
-      "2022-01-24": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zio GB01 (Virgin Media)",
@@ -44,7 +42,7 @@
     "slug": "zio-gb-01-virgin-media",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.69%",
+    "uptimeDay": "99.68%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -54,7 +52,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-01-24": 4
+      "2022-01-24": 5
     }
   },
   {
@@ -82,7 +80,7 @@
     "slug": "zio-nl-01-scaleway",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.70%",
+    "uptimeDay": "99.69%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
