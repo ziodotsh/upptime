@@ -33,7 +33,7 @@ sites:
 
 status-website:
   cname: uptime.zio.sh
-  css: >
-    .live-status > article:nth-child(5) { margin-bottom: 1em; }
+#  css: >
+#    .live-status > article:nth-child(5) { margin-bottom: 1em; }
   name: Zio Uptime
   theme: dark
