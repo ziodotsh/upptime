@@ -24,9 +24,13 @@ sites:
     __dangerous__insecure: true
 
     # Websites
-  - name: Gitea
+  - name: Cloud (Nextcloud)
+    url: https://cloud.zio.sh
+  - name: Git (Gitea)
     url: https://git.zio.sh
     icon: https://git.zio.sh/assets/img/logo.svg
+  - name: Mail
+    url: https://mail.zio.sh
   - name: OSTree Repo
     url: https://ostree.zio.sh
 
