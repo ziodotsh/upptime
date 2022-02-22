@@ -28,11 +28,6 @@ sites:
       - electricduck
 
     # Websites
-  - name: Autodiscover
-    url: https://autodiscover.zio.sh
-    assignees:
-       - astravexton
-       - electricduck
   - name: Cloud (Nextcloud)
     url: https://cloud.zio.sh
     assignees:
