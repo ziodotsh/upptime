@@ -58,8 +58,6 @@ sites:
     # External
   - name: Hetzner Robot
     url: https://robot.your-server.de
-  - name: Test Broken
-    url: https://thisis.broken
 
 status-website:
   cname: uptime.zio.sh
