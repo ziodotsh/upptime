@@ -31,6 +31,12 @@ sites:
     url: https://mail.zio.sh
   - name: OSTree Repo
     url: https://ostree.zio.sh
+  - name: ZNC
+    url: https://znc.zio.sh
+    
+    ## External
+    # - name: Hetzner Robot
+    #   url: robot.your-server.de
 
 status-website:
   cname: uptime.zio.sh
