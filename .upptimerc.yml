@@ -18,7 +18,7 @@ sites:
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
     
     # Cloud Servers
-   - name: "HTZ001 (Hetzner)"
+  - name: "HTZ001 (Hetzner)"
     url: https://htz001.zio.sh
     icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
     __dangerous__insecure: true
