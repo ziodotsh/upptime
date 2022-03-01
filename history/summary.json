@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 562,
     "timeDay": 430,
-    "timeWeek": 562,
+    "timeWeek": 547,
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 510,
-    "timeWeek": 678,
+    "timeWeek": 715,
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 840,
     "timeDay": 748,
-    "timeWeek": 840,
+    "timeWeek": 842,
     "timeMonth": 840,
     "timeYear": 840,
     "dailyMinutesDown": {}
@@ -76,18 +76,20 @@
     "url": "https://cloud.zio.sh",
     "icon": "https://favicons.githubusercontent.com/cloud.zio.sh",
     "slug": "cloud-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 975,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
-    "dailyMinutesDown": {}
+    "time": 885,
+    "timeDay": 714,
+    "timeWeek": 866,
+    "timeMonth": 885,
+    "timeYear": 885,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Git (Gitea)",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 439,
-    "timeWeek": 471,
+    "timeWeek": 480,
     "timeMonth": 471,
     "timeYear": 471,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 563,
-    "timeWeek": 592,
+    "timeWeek": 597,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {}
@@ -138,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 333,
-    "timeWeek": 358,
+    "timeWeek": 365,
     "timeMonth": 358,
     "timeYear": 362,
     "dailyMinutesDown": {}
@@ -167,14 +169,14 @@
     "icon": "https://favicons.githubusercontent.com/robot.your-server.de",
     "slug": "hetzner-robot",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 1539,
     "timeDay": 816,
-    "timeWeek": 1539,
+    "timeWeek": 1589,
     "timeMonth": 1539,
     "timeYear": 1539,
     "dailyMinutesDown": {
