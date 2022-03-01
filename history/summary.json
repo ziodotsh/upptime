@@ -58,9 +58,9 @@
     "url": "https://htz001.zio.sh",
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png",
     "slug": "server-htz-001-hetzner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,26 +69,28 @@
     "timeWeek": 842,
     "timeMonth": 840,
     "timeYear": 840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Cloud (Nextcloud)",
     "url": "https://cloud.zio.sh",
     "icon": "https://favicons.githubusercontent.com/cloud.zio.sh",
     "slug": "cloud-nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 714,
-    "timeWeek": 866,
-    "timeMonth": 885,
-    "timeYear": 885,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 891,
+    "timeDay": 804,
+    "timeWeek": 876,
+    "timeMonth": 891,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 15
     }
   },
   {
