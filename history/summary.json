@@ -59,18 +59,19 @@
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png",
     "slug": "server-htz-001-hetzner",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.34%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 853,
     "timeDay": 934,
     "timeWeek": 922,
     "timeMonth": 853,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2022-03-01": 13
+      "2022-03-02": 60,
+      "2022-03-01": 14
     }
   },
   {
