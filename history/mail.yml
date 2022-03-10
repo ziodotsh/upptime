@@ -1,7 +1,7 @@
-url: https://cloud.zio.sh
+url: https://mail.zio.sh
 status: up
-code: 200
-responseTime: 597
-lastUpdated: 2022-03-10T16:15:36.374Z
+code: 401
+responseTime: 679
+lastUpdated: 2022-03-10T16:34:43.631Z
 startTime: Tue Feb 22 2022 05:04:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
