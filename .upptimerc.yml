@@ -40,7 +40,12 @@ sites:
       - astravexton
       - electricduck
   - name: Mail
-    url: https://cloud.zio.sh
+    url: https://mail.zio.sh
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+      - 401
     icon: https://emojipedia-us.s3.amazonaws.com/source/joypixels/291/e-mail_1f4e7.png
     assignees:
       - astravexton
