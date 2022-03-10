@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 566,
-    "timeDay": 399,
-    "timeWeek": 595,
+    "timeDay": 439,
+    "timeWeek": 591,
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 619,
-    "timeDay": 497,
-    "timeWeek": 521,
-    "timeMonth": 619,
-    "timeYear": 619,
+    "time": 610,
+    "timeDay": 463,
+    "timeWeek": 507,
+    "timeMonth": 610,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2022-03-10": 6
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.53%",
-    "time": 858,
-    "timeDay": 729,
-    "timeWeek": 841,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "time": 862,
+    "timeDay": 788,
+    "timeWeek": 853,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2022-03-02": 98,
       "2022-03-01": 14
@@ -89,11 +89,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 907,
-    "timeDay": 904,
-    "timeWeek": 911,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "time": 906,
+    "timeDay": 899,
+    "timeWeek": 909,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2022-03-04": 17,
       "2022-03-02": 15,
@@ -111,18 +111,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 489,
-    "timeDay": 435,
-    "timeWeek": 514,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "time": 491,
+    "timeDay": 464,
+    "timeWeek": 518,
+    "timeMonth": 491,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2022-03-02": 15
     }
   },
   {
     "name": "Mail",
-    "url": "https://cloud.zio.sh",
+    "url": "https://mail.zio.sh",
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/joypixels/291/e-mail_1f4e7.png",
     "slug": "mail",
     "status": "up",
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 587,
-    "timeWeek": 611,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 607,
+    "timeDay": 610,
+    "timeWeek": 618,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 366,
-    "timeDay": 305,
-    "timeWeek": 367,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 329,
+    "timeWeek": 371,
+    "timeMonth": 367,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-03-02": 15
     }
@@ -169,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 390,
-    "timeDay": 316,
+    "time": 391,
+    "timeDay": 337,
     "timeWeek": 398,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-03-02": 15
     }
@@ -189,11 +189,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
-    "time": 1384,
-    "timeDay": 822,
-    "timeWeek": 1201,
-    "timeMonth": 1384,
-    "timeYear": 1384,
+    "time": 1371,
+    "timeDay": 868,
+    "timeWeek": 1188,
+    "timeMonth": 1371,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2022-03-09": 19,
       "2022-02-23": 61
