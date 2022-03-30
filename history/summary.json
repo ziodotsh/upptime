@@ -42,9 +42,9 @@
     "url": "https://gb02.zio.sh/health-check",
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "server-gb-02-kcom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 405,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2022-03-30": 0,
       "2022-03-10": 6
     }
   },
@@ -63,11 +64,11 @@
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png",
     "slug": "server-htz-001-hetzner",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 845,
     "timeDay": 746,
     "timeWeek": 860,
