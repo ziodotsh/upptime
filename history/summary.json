@@ -43,11 +43,11 @@
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "server-gb-02-kcom",
     "status": "up",
-    "uptime": "95.65%",
+    "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "73.23%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "95.65%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "95.66%",
     "time": 459,
     "timeDay": 390,
     "timeWeek": 372,
@@ -75,7 +75,7 @@
     "time": 848,
     "timeDay": 713,
     "timeWeek": 874,
-    "timeMonth": 836,
+    "timeMonth": 837,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2022-03-02": 98,
@@ -96,7 +96,7 @@
     "time": 887,
     "timeDay": 782,
     "timeWeek": 876,
-    "timeMonth": 870,
+    "timeMonth": 868,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2022-03-04": 17,
@@ -118,7 +118,7 @@
     "time": 473,
     "timeDay": 394,
     "timeWeek": 472,
-    "timeMonth": 460,
+    "timeMonth": 457,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2022-03-02": 15
@@ -138,7 +138,7 @@
     "time": 585,
     "timeDay": 526,
     "timeWeek": 611,
-    "timeMonth": 572,
+    "timeMonth": 566,
     "timeYear": 585,
     "dailyMinutesDown": {}
   },
@@ -187,7 +187,7 @@
     "url": "https://robot.your-server.de",
     "icon": "https://favicons.githubusercontent.com/robot.your-server.de",
     "slug": "hetzner-robot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "96.48%",
     "uptimeWeek": "99.50%",
@@ -196,7 +196,7 @@
     "time": 1330,
     "timeDay": 3347,
     "timeWeek": 1906,
-    "timeMonth": 1264,
+    "timeMonth": 1297,
     "timeYear": 1330,
     "dailyMinutesDown": {
       "2022-04-10": 51,
