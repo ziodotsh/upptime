@@ -4,11 +4,11 @@
     "url": "https://de01.zio.sh",
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png",
     "slug": "server-de-01-hetzner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 505,
     "timeDay": 536,
@@ -16,6 +16,7 @@
     "timeMonth": 522,
     "timeYear": 505,
     "dailyMinutesDown": {
+      "2022-05-18": 3,
       "2022-03-02": 15
     }
   },
@@ -43,11 +44,11 @@
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "server-gb-02-kcom",
     "status": "up",
-    "uptime": "97.47%",
+    "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.49%",
     "time": 413,
     "timeDay": 556,
     "timeWeek": 431,
@@ -90,11 +91,11 @@
     "url": "https://cloud.zio.sh",
     "icon": "https://favicons.githubusercontent.com/cloud.zio.sh",
     "slug": "cloud-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 892,
     "timeDay": 1012,
@@ -102,6 +103,7 @@
     "timeMonth": 925,
     "timeYear": 892,
     "dailyMinutesDown": {
+      "2022-05-18": 2,
       "2022-03-04": 17,
       "2022-03-02": 15,
       "2022-03-01": 15
@@ -112,10 +114,10 @@
     "url": "https://git.zio.sh",
     "icon": "https://git.zio.sh/assets/img/logo.svg",
     "slug": "git-gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 483,
@@ -124,6 +126,7 @@
     "timeMonth": 509,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2022-05-18": 2,
       "2022-03-02": 15
     }
   },
@@ -132,10 +135,10 @@
     "url": "https://mail.zio.sh",
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/joypixels/291/e-mail_1f4e7.png",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
@@ -143,17 +146,19 @@
     "timeWeek": 657,
     "timeMonth": 607,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   },
   {
     "name": "OSTree Repo",
     "url": "https://ostree.zio.sh",
     "icon": "https://favicons.githubusercontent.com/ostree.zio.sh",
     "slug": "os-tree-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 355,
@@ -162,6 +167,7 @@
     "timeMonth": 366,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2022-05-18": 1,
       "2022-03-02": 15
     }
   },
@@ -170,9 +176,9 @@
     "url": "https://znc.zio.sh",
     "icon": "https://favicons.githubusercontent.com/znc.zio.sh",
     "slug": "znc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -182,6 +188,7 @@
     "timeMonth": 367,
     "timeYear": 365,
     "dailyMinutesDown": {
+      "2022-05-18": 0,
       "2022-04-29": 3,
       "2022-03-02": 15
     }
@@ -192,11 +199,11 @@
     "icon": "https://favicons.githubusercontent.com/robot.your-server.de",
     "slug": "hetzner-robot",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1344,
     "timeDay": 1217,
     "timeWeek": 1713,
