@@ -25,19 +25,19 @@
     "url": "https://gb01.zio.sh",
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "server-gb-01-virgin-media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 1521,
-    "timeWeek": 1263,
-    "timeMonth": 1072,
-    "timeYear": 876,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 889,
+    "timeDay": 1650,
+    "timeWeek": 1328,
+    "timeMonth": 1095,
+    "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-05-21": 0
+      "2022-05-21": 12
     }
   },
   {
