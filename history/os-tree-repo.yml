@@ -1,7 +1,7 @@
 url: https://ostree.zio.sh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-28T17:40:57.835Z
+status: up
+code: 200
+responseTime: 428
+lastUpdated: 2022-06-28T18:12:28.513Z
 startTime: Tue Jan 18 2022 23:54:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
