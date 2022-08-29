@@ -1,7 +1,7 @@
 url: https://mail.zio.sh
-status: up
-code: 401
-responseTime: 801
-lastUpdated: 2022-08-28T23:16:58.781Z
+status: down
+code: 503
+responseTime: 588
+lastUpdated: 2022-08-29T21:57:38.052Z
 startTime: Tue Feb 22 2022 05:04:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
