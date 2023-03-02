@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 583,
-    "timeDay": 832,
-    "timeWeek": 606,
-    "timeMonth": 593,
-    "timeYear": 584,
+    "time": 584,
+    "timeDay": 855,
+    "timeWeek": 602,
+    "timeMonth": 604,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2023-01-25": 12,
       "2022-12-08": 12,
       "2022-09-21": 115,
       "2022-06-28": 68,
-      "2022-05-18": 16,
-      "2022-03-02": 15
+      "2022-05-18": 16
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png",
     "slug": "server-gb-01-virgin-media",
     "status": "down",
-    "uptime": "44.56%",
+    "uptime": "44.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "43.51%",
+    "uptimeYear": "43.25%",
     "time": 1026,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2023-03-01": 183,
+      "2023-03-02": 77,
+      "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
@@ -270,10 +270,10 @@
     "uptimeMonth": "98.10%",
     "uptimeYear": "99.13%",
     "time": 405,
-    "timeDay": 433,
-    "timeWeek": 416,
+    "timeDay": 415,
+    "timeWeek": 400,
     "timeMonth": 378,
-    "timeYear": 396,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2023-03-01": 65,
       "2023-02-24": 29,
@@ -312,10 +312,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 957,
-    "timeDay": 963,
-    "timeWeek": 980,
-    "timeMonth": 904,
-    "timeYear": 959,
+    "timeDay": 995,
+    "timeWeek": 962,
+    "timeMonth": 907,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2023-01-25": 34,
       "2022-12-08": 11,
@@ -324,8 +324,7 @@
       "2022-08-29": 46,
       "2022-06-28": 33,
       "2022-05-18": 15,
-      "2022-03-04": 17,
-      "2022-03-02": 15
+      "2022-03-04": 17
     }
   },
   {
@@ -340,9 +339,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 511,
-    "timeDay": 572,
-    "timeWeek": 518,
-    "timeMonth": 519,
+    "timeDay": 516,
+    "timeWeek": 520,
+    "timeMonth": 514,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2023-01-25": 34,
@@ -350,8 +349,7 @@
       "2022-12-08": 11,
       "2022-09-21": 115,
       "2022-06-28": 33,
-      "2022-05-18": 15,
-      "2022-03-02": 15
+      "2022-05-18": 15
     }
   },
   {
@@ -366,8 +364,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 632,
-    "timeDay": 673,
-    "timeWeek": 660,
+    "timeDay": 651,
+    "timeWeek": 658,
     "timeMonth": 621,
     "timeYear": 633,
     "dailyMinutesDown": {
@@ -391,8 +389,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 385,
-    "timeDay": 448,
-    "timeWeek": 404,
+    "timeDay": 397,
+    "timeWeek": 398,
     "timeMonth": 388,
     "timeYear": 387,
     "dailyMinutesDown": {
@@ -400,8 +398,7 @@
       "2022-12-08": 10,
       "2022-09-21": 115,
       "2022-06-28": 32,
-      "2022-05-18": 14,
-      "2022-03-02": 15
+      "2022-05-18": 14
     }
   },
   {
@@ -416,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 389,
-    "timeDay": 439,
-    "timeWeek": 402,
-    "timeMonth": 382,
+    "timeDay": 411,
+    "timeWeek": 404,
+    "timeMonth": 383,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2023-01-25": 33,
@@ -426,8 +423,7 @@
       "2022-09-21": 115,
       "2022-06-28": 31,
       "2022-05-18": 13,
-      "2022-04-29": 3,
-      "2022-03-02": 15
+      "2022-04-29": 3
     }
   },
   {
@@ -441,11 +437,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1751,
-    "timeDay": 3473,
-    "timeWeek": 2645,
-    "timeMonth": 2217,
-    "timeYear": 1758,
+    "time": 1752,
+    "timeDay": 1885,
+    "timeWeek": 2626,
+    "timeMonth": 2212,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2023-01-25": 23,
       "2023-01-24": 22,
