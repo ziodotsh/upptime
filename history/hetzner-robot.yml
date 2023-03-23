@@ -1,7 +1,7 @@
 url: https://robot.your-server.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-22T23:11:17.362Z
+status: up
+code: 200
+responseTime: 1712
+lastUpdated: 2023-03-23T12:55:50.788Z
 startTime: Tue Feb 22 2022 05:27:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
