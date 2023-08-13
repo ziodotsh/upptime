@@ -3,22 +3,31 @@ repo: upptime
 
 sites:
     # Servers
-  - name: "Server DE01 (Hetzner)"
-    url: https://de01.zio.sh
-    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
+  - name: "fi02"
+    url: https://fi02.zio.sh
+    icon: https://em-content.zobj.net/thumbs/160/twitter/351/flag-finland_1f1eb-1f1ee.png
     assignees:
       - astravexton
       - electricduck
-  - name: "Server GB01 (Virgin Media)"
-    url: https://gb01.zio.sh
-    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
-    assignees:
-      - electricduck
-  - name: "Server GB02 (KCOM)"
-    url: https://gb02.zio.sh/health-check
-    icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
-    assignees:
-      - astravexton
+
+
+    # Servers
+  #- name: "Server DE01 (Hetzner)"
+  #  url: https://de01.zio.sh
+  #  icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
+  #  assignees:
+  #    - astravexton
+  #    - electricduck
+  #- name: "Server GB01 (Virgin Media)"
+  #  url: https://gb01.zio.sh
+  #  icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
+  #  assignees:
+  #    - electricduck
+  #- name: "Server GB02 (KCOM)"
+  #  url: https://gb02.zio.sh/health-check
+  #  icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-united-kingdom_1f1ec-1f1e7.png
+  #  assignees:
+  #    - astravexton
   #- name: "Server HTZ001 (Hetzner)"
   #  url: https://htz001.zio.sh
   #  icon: https://emojipedia-us.s3.amazonaws.com/source/skype/289/flag-germany_1f1e9-1f1ea.png
@@ -28,42 +37,38 @@ sites:
   #    - electricduck
 
     # Websites
-  - name: Cloud (Nextcloud)
-    url: https://cloud.zio.sh
-    assignees:
-      - astravexton
-      - electricduck
-  - name: Git (Gitea)
-    url: https://git.zio.sh
-    icon: https://git.zio.sh/assets/img/logo.svg
-    assignees:
-      - astravexton
-      - electricduck
-  - name: Mail
-    url: https://mail.zio.sh
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 302
-      - 401
-    icon: https://emojipedia-us.s3.amazonaws.com/source/joypixels/291/e-mail_1f4e7.png
-    assignees:
-      - astravexton
-      - electricduck
-  - name: OSTree Repo
-    url: https://ostree.zio.sh
-    assignees:
-      - astravexton
-      - electricduck
-  - name: ZNC
-    url: https://znc.zio.sh
-    assignees:
-      - astravexton
-      - electricduck
-    
-    # External
-  - name: Hetzner Robot
-    url: https://robot.your-server.de
+  #- name: Cloud (Nextcloud)
+  #  url: https://cloud.zio.sh
+  #  assignees:
+  #    - astravexton
+  #    - electricduck
+  #- name: Git (Gitea)
+  #  url: https://git.zio.sh
+  #  icon: https://git.zio.sh/assets/img/logo.svg
+  #  assignees:
+  #    - astravexton
+  #    - electricduck
+  #- name: Mail
+  #  url: https://mail.zio.sh
+  #  expectedStatusCodes:
+  #    - 200
+  #    - 201
+  #    - 302
+  #    - 401
+  #  icon: https://emojipedia-us.s3.amazonaws.com/source/joypixels/291/e-mail_1f4e7.png
+  #  assignees:
+  #    - astravexton
+  #    - electricduck
+  #- name: OSTree Repo
+  #  url: https://ostree.zio.sh
+  #  assignees:
+  #    - astravexton
+  #    - electricduck
+  #- name: ZNC
+  #  url: https://znc.zio.sh
+  #  assignees:
+  #    - astravexton
+  #    - electricduck
 
 status-website:
   cname: uptime.zio.sh
