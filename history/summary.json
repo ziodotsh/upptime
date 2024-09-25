@@ -5,16 +5,16 @@
     "icon": "https://em-content.zobj.net/thumbs/160/twitter/351/flag-finland_1f1eb-1f1ee.png",
     "slug": "fi02",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 587,
-    "timeWeek": 613,
-    "timeMonth": 668,
-    "timeYear": 700,
+    "timeDay": 885,
+    "timeWeek": 644,
+    "timeMonth": 667,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2024-07-03": 12
     }
