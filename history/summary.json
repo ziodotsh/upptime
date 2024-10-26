@@ -4,19 +4,19 @@
     "url": "https://fi02.zio.sh",
     "icon": "https://em-content.zobj.net/thumbs/160/twitter/351/flag-finland_1f1eb-1f1ee.png",
     "slug": "fi02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 743,
-    "timeWeek": 683,
-    "timeMonth": 713,
+    "timeDay": 709,
+    "timeWeek": 682,
+    "timeMonth": 712,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-10-26": 0,
+      "2024-10-26": 12,
       "2024-07-03": 12
     }
   }
