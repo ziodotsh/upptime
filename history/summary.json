@@ -4,7 +4,7 @@
     "url": "https://fi02.zio.sh",
     "icon": "https://em-content.zobj.net/thumbs/160/twitter/351/flag-finland_1f1eb-1f1ee.png",
     "slug": "fi02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 713,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2024-10-26": 0,
       "2024-07-03": 12
     }
   }
