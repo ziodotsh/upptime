@@ -6,21 +6,20 @@
     "slug": "fi02",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.08%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
-    "time": 721,
-    "timeDay": 654,
-    "timeWeek": 1022,
-    "timeMonth": 906,
-    "timeYear": 732,
+    "time": 722,
+    "timeDay": 1057,
+    "timeWeek": 1014,
+    "timeMonth": 915,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-11-30": 13,
       "2025-08-06": 236,
       "2025-06-28": 62,
-      "2025-02-11": 42,
-      "2024-12-02": 71
+      "2025-02-11": 42
     }
   }
 ]
